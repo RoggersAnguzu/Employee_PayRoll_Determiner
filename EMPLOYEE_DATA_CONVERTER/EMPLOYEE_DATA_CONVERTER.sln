@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMPLOYEE_DATA_CONVERTER", "EMPLOYEE_DATA_CONVERTER\EMPLOYEE_DATA_CONVERTER.csproj", "{02408571-1810-4012-842F-DF7A963485EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02408571-1810-4012-842F-DF7A963485EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02408571-1810-4012-842F-DF7A963485EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02408571-1810-4012-842F-DF7A963485EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02408571-1810-4012-842F-DF7A963485EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F1541BB-2E8F-4FBE-A6F3-4989087C5756}
+	EndGlobalSection
+EndGlobal
